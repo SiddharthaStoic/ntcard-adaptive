@@ -103,6 +103,7 @@ This repo uses Autotools and OpenMP. You can run:
 ./autogen.sh
 ./configure
 make
+```
 
 ---
 
