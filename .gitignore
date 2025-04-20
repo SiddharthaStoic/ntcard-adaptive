@@ -1,0 +1,42 @@
+# Build artifacts
+*.o
+*.exe
+*.out
+*.a
+*.so
+
+# Autotools
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+config.*
+configure
+depcomp
+install-sh
+missing
+stamp-*
+
+# Libtool
+.libs/
+ltmain.sh
+
+# Object/dependency directories
+.deps/
+.dirstamp
+
+# Backup/temporary files
+*~
+*.swp
+*.bak
+
+# Benchmark output
+benchmark_results.csv
+benchmark_comparison.csv
+
+# Datasets
+datasets/
+
+# Logs or debug
+*.log
