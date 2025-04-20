@@ -54,16 +54,16 @@ Sample output:
 We compared execution time (in seconds) between the Adaptive and Original ntCard across multiple datasets and k-mer sizes.
 
 ### test-reads.fq.gz
-![test-reads](plots/plot_test_reads_fq_gz.png)
+![test-reads](plots/bar_comparison_test-reads_fq_gz.png)
 
 ### SRR2584863_1.fastq.gz
-![SRR2584863](plots/plot_SRR2584863_1_fastq_gz.png)
+![SRR2584863](plots/bar_comparison_SRR2584863_1_fastq_gz.png)
 
 ### Ecoli_k12.fasta.gz
-![ecoli](plots/plot_Ecoli_k12_fasta_gz.png)
+![ecoli](plots/bar_comparison_Ecoli_k12_fasta_gz.png)
 
 ### chr14.fa.gz
-![chr14](plots/plot_chr14_fa_gz.png)
+![chr14](plots/bar_comparison_chr14_fa_gz.png)
 
 ---
 
